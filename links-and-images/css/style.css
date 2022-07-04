@@ -1,0 +1,28 @@
+* {
+    color: rgb(0, 0, 255);
+    font-family: 'Open Sans', sans-serif;
+}
+
+html {
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(247, 231, 19);
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+a {
+    font-size: 1.2em;
+}
+
+img {
+    margin: 0  auto;
+    border: 2px solid rgb(255, 0, 0);
+    border-radius: 10px;
+}
